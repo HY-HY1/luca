@@ -7,7 +7,7 @@ import React from 'react'
 const Login = () => {
   return (
     <div className='w-full'>
-        <div className='w-[50vw] h-full m-auto'>
+          <div className='sm:w-[90vw] w-[50vw] h-full m-auto'>
             <div>
               <div>
                 <h1 className=' py-4 text-xl'>Login to your account </h1>

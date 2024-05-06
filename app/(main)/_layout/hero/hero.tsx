@@ -9,7 +9,7 @@ const Hero = () => {
       }}
     >
       <div className='absolute top-0 left-0 w-full h-full bg-black opacity-60 flex justify-center items-center'>
-        <h1 className='text-black bg-slate-100 text-4xl'>Welcome to Ryzens Wholesale LTD</h1>
+        <h1 className='text-black bg-slate-100 text-4xl max-w-[90vw] m-auto'>Welcome to Ryzens Wholesale LTD</h1>
       </div>
     </div>
   );
