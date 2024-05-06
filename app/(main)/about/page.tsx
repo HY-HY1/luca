@@ -19,10 +19,10 @@ const About = () => {
         <div className="max-w-2xl mx-auto p-4">
           <h1 className="text-3xl font-bold mb-4">RYZENS Wholesale</h1>
           <p>
-            At RYZENS Wholesale, we strive to source great products for you at
+            At RYZENS Wholesale we strive to source great products for you at
             the best prices we can. We curate a vast range of products from both
             UK and internationally authorized distributors of various brands.
-            Additionally, we import our own products, enhancing our catalog&apos;s
+            Additionally, we import our own products enhancing our catalogs
             diversity.
           </p>
           <br />
@@ -30,7 +30,7 @@ const About = () => {
             RYZENS Wholesale distinguishes itself in the wholesale marketplace
             by fostering valuable relationships and supporting customers in
             their trade growth. We offer competitive pricing and assist in
-            developing their SKU&apos;s, ensuring their success in the market.
+            developing their SKUs ensuring their success in the market.
           </p>
         </div>
       </div>
