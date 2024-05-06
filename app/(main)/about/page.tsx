@@ -6,7 +6,7 @@ const About = () => {
       <div
         className="relative h-[200px] w-full bg-cover bg-center "
         style={{
-          backgroundImage: `url(&apos;https://t4.ftcdn.net/jpg/01/81/65/85/360_F_181658575_6gz3Gx96iRndmBtXv2llVsGOGsfdT1AP.jpg&apos;)`,
+          backgroundImage: `url(https://t4.ftcdn.net/jpg/01/81/65/85/360_F_181658575_6gz3Gx96iRndmBtXv2llVsGOGsfdT1AP.jpg)`,
         }}
       >
         <div className="absolute top-0 left-0 w-full h-full bg-black opacity-60 flex justify-center items-center">
